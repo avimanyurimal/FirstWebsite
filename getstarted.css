@@ -1,0 +1,55 @@
+/* Get Started Section Styles */
+#get-started {
+    background-color: #f5f5f5;
+    padding: 3rem 0;
+    text-align: center;
+  }
+  
+  #get-started .title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+  
+  #get-started .content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  #get-started h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  #get-started p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+  }
+  
+  #get-started ul.actions {
+    margin-top: 2rem;
+  }
+  
+  #get-started ul.actions li {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  
+  #get-started .button {
+    padding: 0.8rem 1.5rem;
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  #get-started .style1 {
+    background-color: #4CAF50;
+    color: #fff;
+  }
+  
+  #get-started .style2 {
+    background-color: #3498DB;
+    color: #fff;
+  }
+  
